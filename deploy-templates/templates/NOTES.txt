@@ -1,0 +1,1 @@
+1. Application custom-app has been successfully deployed!!
